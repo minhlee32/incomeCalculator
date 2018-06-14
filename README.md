@@ -1,0 +1,1 @@
+#This program calculates your actual income in a month
